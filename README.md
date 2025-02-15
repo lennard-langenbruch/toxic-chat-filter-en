@@ -7,3 +7,6 @@ Pre-trained Model & Parent Model
 https://huggingface.co/docs/transformers/en/model_doc/bert 
 <br>
 https://huggingface.co/docs/transformers/model_doc/distilbert 
+
+
+train.csv.zip has to be unzipped to train.csv
